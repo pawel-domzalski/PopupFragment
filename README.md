@@ -1,5 +1,14 @@
 # PopupFragment
 
+
+## Getting started
+
+I highly recommend checking the sample at https://github.com/pawel-domzalski/PopupFragment/tree/master/app
+The current sample code is done for FragmentActivity but you can show popup from Fragment in this case the fragment implements the callback interface from the popup, to show popup you call showPopup(Fragment)
+
+
+
+
 # LICENSE
 Copyright 2020 Pawel Domzalski
 
